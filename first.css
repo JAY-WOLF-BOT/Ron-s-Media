@@ -1,5 +1,5 @@
 body{
-    background-image: url("new/Kit.jpg");
+    background-image: url("Kit.jpg");
     text-align: center;
     justify-content: center;
     margin: 0;
@@ -33,4 +33,5 @@ a{
 
    padding: 10px 100px;
    border-radius: 20px;
+
 }
